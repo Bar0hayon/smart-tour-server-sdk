@@ -1,12 +1,13 @@
-const ServerSdk = {
-    createTour: (params) => {
+class ServerSdk  {
+    static createTour(params) {
         console.log(params);
         return params;
-    },
-    uploadMedia: (params) => {
+    };
+
+    static uploadMedia(params) {
         console.log(params);
         return params;
-    }
+    };
 };
 
-export default ServerSdk;
+module.exports = ServerSdk;
