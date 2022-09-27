@@ -1,5 +1,5 @@
 class ServerSdk {
-    createTour(params) {
+    static createTour(params) {
         console.log(params);
     }
 }
