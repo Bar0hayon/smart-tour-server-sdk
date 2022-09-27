@@ -1,0 +1,19 @@
+{
+  "name": "server-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bar0hayon/smart-tour-server-sdk.git"
+  },
+  "author": "Bar Ohayon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bar0hayon/smart-tour-server-sdk/issues"
+  },
+  "homepage": "https://github.com/Bar0hayon/smart-tour-server-sdk#readme"
+}
