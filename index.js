@@ -10,4 +10,4 @@ class ServerSdk  {
     };
 };
 
-module.exports = ServerSdk;
+export default ServerSdk;
